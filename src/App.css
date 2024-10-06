@@ -26,6 +26,8 @@
 
 .App-link {
   color: #61dafb;
+  font-family: 'freight-big-pro-book-regular';
+  src: local('freight-big-pro-book-regular'), url(./fonts/freight-big-pro-book-regular.ttf) format('truetype');
 }
 
 @keyframes App-logo-spin {
